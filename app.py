@@ -354,7 +354,7 @@ def main():
             </p>
             <br>
             <div style='text-align: center; margin-top: 10px;'>
-                <a href='https://github.com/bustyAI' target='_blank' style='color: #a78bfa; text-decoration: none; margin-right: 15px; font-size: 1.2rem;'>
+                <a href='https://github.com/o-o-dev' target='_blank' style='color: #a78bfa; text-decoration: none; margin-right: 15px; font-size: 1.2rem;'>
                     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='24' style='filter: invert(70%) sepia(50%) saturate(500%) hue-rotate(220deg);'/>
                 </a>
                 <a href='https://www.linkedin.com/in/oscar-ochoa-096420224/' target='_blank' style='color: #a78bfa; text-decoration: none; font-size: 1.2rem;'>
